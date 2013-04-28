@@ -1,5 +1,5 @@
 <h1>Google ReCaptcha Api</h1>
-
+ 
 http://code.google.com/intl/tr-TR/apis/recaptcha/docs/php.html The only difference 
 all functions changes to object but $resp object changed to array.
 
